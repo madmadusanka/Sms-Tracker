@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "264752755204",
+    "firebase_url": "https://sms-trackero.firebaseio.com",
+    "project_id": "sms-trackero",
+    "storage_bucket": "sms-trackero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264752755204:android:116fa61ba2db6fcdc9fb51",
+        "android_client_info": {
+          "package_name": "ephoenix.com.example.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264752755204-uhu8tjvhb7842f5lcl5hka9p3n8ibdo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLunR-yqTt6QjaTnFjxbR9rkijNLWxUfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264752755204-uhu8tjvhb7842f5lcl5hka9p3n8ibdo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
